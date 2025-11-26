@@ -1,5 +1,59 @@
 {
   "users": {
+    "293394755": {
+      "id": 293394755,
+      "username": "ahmad_hidayat27",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:32:52.115Z"
+    },
+    "425134037": {
+      "id": 425134037,
+      "username": "amirun_rayan",
+      "balance": 0,
+      "joinedAt": "2025-11-25T22:31:20.346Z"
+    },
+    "491111393": {
+      "id": 491111393,
+      "username": "abhjek",
+      "balance": 0,
+      "joinedAt": "2025-11-25T12:08:57.177Z"
+    },
+    "768713979": {
+      "id": 768713979,
+      "username": "Tegarrohim",
+      "balance": 0,
+      "joinedAt": "2025-11-25T20:37:08.787Z"
+    },
+    "920188621": {
+      "id": 920188621,
+      "username": "Rizav19",
+      "balance": 0,
+      "joinedAt": "2025-11-25T19:05:44.445Z"
+    },
+    "922123541": {
+      "id": 922123541,
+      "username": "rzzdk",
+      "balance": 0,
+      "joinedAt": "2025-11-25T07:13:00.407Z"
+    },
+    "971398440": {
+      "id": 971398440,
+      "username": "almaslur",
+      "balance": 0,
+      "joinedAt": "2025-11-25T07:21:56.135Z"
+    },
+    "1110314962": {
+      "id": 1110314962,
+      "username": "kingfastbuy",
+      "balance": 0,
+      "joinedAt": "2025-11-25T05:52:25.615Z"
+    },
+    "1638630409": {
+      "id": 1638630409,
+      "username": "inurl007",
+      "balance": 0,
+      "joinedAt": "2025-11-25T04:49:13.207Z"
+    },
     "6511470350": {
       "id": 6511470350,
       "username": "pejabatnegeriRI",
@@ -9,8 +63,146 @@
     "6501087981": {
       "id": 6501087981,
       "username": "csfastcell",
-      "balance": 56000,
+      "balance": 825000,
       "joinedAt": "2025-11-23T13:56:06.225Z"
+    },
+    "5018858575": {
+      "id": 5018858575,
+      "username": "birulaut0",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.544Z"
+    },
+    "6288953556": {
+      "id": 6288953556,
+      "username": "IndiXbiz",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.669Z"
+    },
+    "7453901183": {
+      "id": 7453901183,
+      "username": "ChochoPiss",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.671Z"
+    },
+    "8235819300": {
+      "id": 8235819300,
+      "username": "antastoreid",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.674Z"
+    },
+    "7078001626": {
+      "id": 7078001626,
+      "username": "Pshy2103",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.676Z"
+    },
+    "7600008581": {
+      "id": 7600008581,
+      "username": "uuiiaa12",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:22:07.688Z"
+    },
+    "6466499098": {
+      "id": 6466499098,
+      "username": "familysetiawanfbgreen",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:28:30.627Z"
+    },
+    "6275327822": {
+      "id": 6275327822,
+      "username": "sierraechopapa",
+      "balance": 0,
+      "joinedAt": "2025-11-25T03:36:39.612Z"
+    },
+    "6856056210": {
+      "id": 6856056210,
+      "username": "Gppputraa",
+      "balance": 0,
+      "joinedAt": "2025-11-25T04:52:23.177Z"
+    },
+    "5042712778": {
+      "id": 5042712778,
+      "username": "infinitumfx",
+      "balance": 0,
+      "joinedAt": "2025-11-25T04:57:33.325Z"
+    },
+    "7216147603": {
+      "id": 7216147603,
+      "username": "Cloudfrare",
+      "balance": 0,
+      "joinedAt": "2025-11-25T05:25:21.384Z"
+    },
+    "5820060148": {
+      "id": 5820060148,
+      "username": "FreedaCloud",
+      "balance": 0,
+      "joinedAt": "2025-11-25T06:52:03.644Z"
+    },
+    "5620553297": {
+      "id": 5620553297,
+      "username": "setiawanfbgreen01",
+      "balance": 0,
+      "joinedAt": "2025-11-25T07:46:07.522Z"
+    },
+    "6988892214": {
+      "id": 6988892214,
+      "username": "Evoguee",
+      "balance": 0,
+      "joinedAt": "2025-11-25T09:11:03.931Z"
+    },
+    "8292236592": {
+      "id": 8292236592,
+      "username": "hijkyu12",
+      "balance": 0,
+      "joinedAt": "2025-11-25T10:27:51.041Z"
+    },
+    "5726866374": {
+      "id": 5726866374,
+      "username": "Faisalfatih",
+      "balance": 0,
+      "joinedAt": "2025-11-25T12:44:18.061Z"
+    },
+    "7301335818": {
+      "id": 7301335818,
+      "username": "BoabAbdulAziz",
+      "balance": 0,
+      "joinedAt": "2025-11-25T12:48:19.296Z"
+    },
+    "5065537786": {
+      "id": 5065537786,
+      "username": "chaleeda_sol",
+      "balance": 0,
+      "joinedAt": "2025-11-25T17:30:27.277Z"
+    },
+    "6613484476": {
+      "id": 6613484476,
+      "username": "aristotlesss",
+      "balance": 0,
+      "joinedAt": "2025-11-25T17:30:27.423Z"
+    },
+    "8280969596": {
+      "id": 8280969596,
+      "username": "Atharrazka",
+      "balance": 0,
+      "joinedAt": "2025-11-25T18:03:47.845Z"
+    },
+    "7030434207": {
+      "id": 7030434207,
+      "username": "greenawatterson",
+      "balance": 0,
+      "joinedAt": "2025-11-26T02:31:47.715Z"
+    },
+    "7372687085": {
+      "id": 7372687085,
+      "username": "Pukidoki",
+      "balance": 0,
+      "joinedAt": "2025-11-26T04:41:48.203Z"
+    },
+    "5905006656": {
+      "id": 5905006656,
+      "username": "wibuglowup",
+      "balance": 0,
+      "joinedAt": "2025-11-26T08:04:08.934Z"
     }
   }
 }
