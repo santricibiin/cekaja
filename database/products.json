@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1763920935729.5403,
+      "categoryName": "canva",
+      "code": "canvahead",
+      "name": "CANVA PRO HEAD",
+      "price": 3000,
+      "detail": "BERGARANSI🔥 BISA INVITE 100+ ORANG🔥⚡",
+      "createdAt": "2025-11-23T18:02:15.729Z"
+    },
+    {
+      "id": 1763921437637.0278,
+      "categoryName": "chatgpt",
+      "code": "chatgptbs",
+      "name": "CHATGPT BUSINES",
+      "price": 5000,
+      "detail": "BISA INVITE 5 ORANG 🔥",
+      "createdAt": "2025-11-23T18:10:37.637Z"
+    },
+    {
+      "id": 1763943249839.541,
+      "categoryName": "vidio",
+      "code": "vidiom1b",
+      "name": "VIDIO MOBILE 1BULAN",
+      "price": 20000,
+      "detail": "AKUN PRIVATE⚡",
+      "createdAt": "2025-11-24T00:14:09.839Z"
+    },
+    {
+      "id": 1763943338470.0867,
+      "categoryName": "scribd",
+      "code": "scribd",
+      "name": "SCRIBD PRO 1BULAN",
+      "price": 5000,
+      "detail": "AKUN PRIVATE⚡",
+      "createdAt": "2025-11-24T00:15:38.470Z"
+    },
+    {
+      "id": 1763943493792.6582,
+      "categoryName": "capcut",
+      "code": "cc7",
+      "name": "CAPCUT 7D",
+      "price": 2000,
+      "detail": "AKUN PRIVATE ⚡",
+      "createdAt": "2025-11-24T00:18:13.792Z"
+    },
+    {
+      "id": 1763943522796.7014,
+      "categoryName": "capcut",
+      "code": "cc21",
+      "name": "CAPCUT 21D",
+      "price": 3000,
+      "detail": "AKUN PRIVATE ⚡",
+      "createdAt": "2025-11-24T00:18:42.796Z"
+    },
+    {
+      "id": 1763943540539.5425,
+      "categoryName": "capcut",
+      "code": "cc35",
+      "name": "CAPCUT 35D",
+      "price": 5000,
+      "detail": "AKUN PRIVATE ⚡",
+      "createdAt": "2025-11-24T00:19:00.539Z"
+    }
+  ]
+}

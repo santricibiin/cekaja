@@ -1,0 +1,16 @@
+{
+  "users": {
+    "6511470350": {
+      "id": 6511470350,
+      "username": "pejabatnegeriRI",
+      "balance": 0,
+      "joinedAt": "2025-11-23T13:52:21.797Z"
+    },
+    "6501087981": {
+      "id": 6501087981,
+      "username": "csfastcell",
+      "balance": 56000,
+      "joinedAt": "2025-11-23T13:56:06.225Z"
+    }
+  }
+}
