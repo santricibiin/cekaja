@@ -62,6 +62,15 @@
       "price": 5000,
       "detail": "AKUN PRIVATE ⚡",
       "createdAt": "2025-11-24T00:19:00.539Z"
+    },
+    {
+      "id": 1764162353091.339,
+      "categoryName": "spotify",
+      "code": "spo4",
+      "name": "SPOTIFY 4BULAN INDIVIDUAL",
+      "price": 8000,
+      "detail": "PRIVATE AKUN!",
+      "createdAt": "2025-11-26T13:05:53.091Z"
     }
   ]
 }
